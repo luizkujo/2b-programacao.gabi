@@ -1,4 +1,12 @@
-header{
+ *{
+    margin:0;
+    padding:0; 
+
+}
+
+
+
+.cabecalho {
     background-color:  #64dce0;
     color:rgb(0, 0, 0);
     display:flex;
@@ -8,6 +16,12 @@ header{
 
 }
 
-.cabecalho.imagem{
+.cabecalho-imagem{
     width: 10%
+}
+.cabecalho-lista-item {
+   display: inline-block ;
+   margin: 0 16px;
+   font-size: 24px;
+font-family: 'Courier New', Courier, monospace;
 }
