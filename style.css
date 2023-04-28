@@ -29,10 +29,15 @@ body {
     font-family: 'Poppins';
     background-image:  linear-gradient(rgb(6, 8, 126), rgb(0, 0, 0));
   }
+  .pacifico{
+
+    display:flex;
+    
+  }
    
    
     escolinha-imagem{
-      justify-content: right;
+     
       width: 25px;
     }
     .Escola-Cívico-Militar-titulo{
